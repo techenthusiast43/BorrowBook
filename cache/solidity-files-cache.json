@@ -2,8 +2,8 @@
   "_format": "hh-sol-cache-2",
   "files": {
     "C:\\Users\\HomePC\\Desktop\\projects\\borrowbook\\contracts\\BorrowBook.sol": {
-      "lastModificationDate": 1794220950253,
-      "contentHash": "fe1afda51bfef1c13576c5fb7e83312d",
+      "lastModificationDate": 1794223191044,
+      "contentHash": "1077f1f34ed8c810ef03305752146440",
       "sourceName": "contracts/BorrowBook.sol",
       "solcConfig": {
         "version": "0.8.20",

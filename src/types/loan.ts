@@ -25,3 +25,4 @@ export interface LoanStats {
   returnedLoans: number;
   overdueLoans: number;
 }
+

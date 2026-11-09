@@ -21,3 +21,4 @@ export function formatBytes32Id(input: string): `0x${string}` {
   }
   return keccak256(toHex(trimmed));
 }
+

@@ -40,3 +40,4 @@ export const LoanStatusBadge: React.FC<LoanStatusBadgeProps> = ({
     </span>
   );
 };
+

@@ -387,3 +387,4 @@ export const LoanDetails: React.FC<LoanDetailsProps> = ({
     </div>
   );
 };
+

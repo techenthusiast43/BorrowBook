@@ -165,3 +165,4 @@ export const ContractAddressModal: React.FC<ContractAddressModalProps> = ({
     </div>
   );
 };
+

@@ -318,3 +318,4 @@ export const CreateLoan: React.FC<CreateLoanProps> = ({ onLoanCreated }) => {
     </div>
   );
 };
+

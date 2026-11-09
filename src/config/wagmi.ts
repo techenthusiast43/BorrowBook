@@ -46,3 +46,4 @@ export const modal = createAppKit({
     "--w3m-border-radius-master": "8px",
   },
 });
+
